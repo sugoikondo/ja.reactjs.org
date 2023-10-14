@@ -7,7 +7,7 @@
     "url": "https://github.com/reactjs/reactjs.org"
   },
   "dependencies": {
-    "babel-eslint": "^8.0.1",
+    "babel-eslint": "^9.0.0",
     "eslint": "^4.8.0",
     "eslint-config-fbjs": "^2.0.0",
     "eslint-config-react": "^1.1.7",
@@ -18,7 +18,7 @@
     "eslint-plugin-react": "^7.4.0",
     "eslint-plugin-relay": "^0.0.19",
     "flow-bin": "^0.56.0",
-    "gatsby": "^2.0.0",
+    "gatsby": "^2.0.84",
     "gatsby-plugin-catch-links": "^2.0.0",
     "gatsby-plugin-feed": "^2.0.0",
     "gatsby-plugin-glamor": "^2.0.0",
